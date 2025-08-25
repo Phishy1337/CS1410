@@ -10,3 +10,9 @@ def rangetest():
 
 
 rangetest()
+
+def slicetest():
+    mystring = "!dlroW olleH"
+    print(mystring[::-1])
+
+slicetest()
